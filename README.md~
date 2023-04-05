@@ -1,4 +1,0 @@
-# Stereo3D interactive figures
-<div align="justify">  
-Interactive 3D figures developed for manuscript: "Three-dimensional coherent diffraction snapshot imaging using extreme ultraviolet radiation from a free electron laser". Please note that the 3D interactive figures are in the .stl format and have been converted from Python 3D matrices (Numpy). In this conversion process slight smoothin and have undergone may appear different from the images contained in the manuscript
-
